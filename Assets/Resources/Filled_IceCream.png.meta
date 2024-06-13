@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: dd240a66aed74154991fd5b10dc13ecb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Filled_IceCream_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f064f1da46811f14db8b03000218ba90
+      internalID: 1374960942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6707132d5768f4419072c9abe57de1d
+      internalID: 1243141812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7f3f0cc9c331743a06abac8587108d
+      internalID: -1237046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7d715be1c189342a08b4b202020083
+      internalID: -1829434226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00ce31c12bc73147aafc1f2d2d0375b
+      internalID: -1256981621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142af9473ab545547ba19a61ff6c1f76
+      internalID: -1792739630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045070bcf999e7b408a5ec2473485f35
+      internalID: -1171387264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44f9b3255801f94b9889b605f360b1c
+      internalID: 1231967577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07836768708b0bc409cffc6cf7b537f0
+      internalID: -813666720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b5e4cd3bb8bd9498b447fa873120a6
+      internalID: -2135583291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b990bfef193c14988a0b69e1807157
+      internalID: -754664961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01303da529d57e4cbac8d5430f82b48
+      internalID: -1727812603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec9c0cf0e679124b9e753adb1bd6609
+      internalID: -832384977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b68a5dce99c313458ea9ec0eda387eb
+      internalID: -376733586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362f2846e4118441b9b8b93e2755284
+      internalID: -1682119783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ba87fda8cc2141a7b6c2e29a17b73
+      internalID: -477452384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f78594854e8840bac28419a0256af
+      internalID: -548124212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482322451d8c51b49aeee356fc874fc5
+      internalID: -1309568857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd77be640485f048a3becea1405f2df
+      internalID: 1375978282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d93139126b70fa4caafd7d8c9a07794
+      internalID: 1158788602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d1be0da70f80498b00bf0e09d4e22
+      internalID: -466637039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7550074061627a245ab2aeba48f3154d
+      internalID: -993463480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c04debe2c2c54da656c56b0b0519c
+      internalID: -1252229072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8cf8d464bfcde48ab3dc397a3b52f5
+      internalID: 649485774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf57c89b3ec72548b076ad4d450903f
+      internalID: -554458112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955bca37ceee9e9469b24ea6a4fcd69f
+      internalID: 672449581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3416799e23f7de34f9c4eab4d52d2c50
+      internalID: 2144969259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d9ddf65a352a748b243749a7ad75ae
+      internalID: 2057189153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96edf2f685e70842b95d6e2bdcc538c
+      internalID: -2062209115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce09b264e900dbf4ab878a03a0f7c5be
+      internalID: -884083638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a48f9f93505bc4bac1523a49bb06d8
+      internalID: 1733927262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52339118402b32d4c9ed4bae707af077
+      internalID: -72146530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dfeeeda3fbbf1478665132e1c98bb0
+      internalID: 1837386940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28704b3d563d52b4d98d5b1aa67330d3
+      internalID: -1195978628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90efd9419bf9a90438ed10aa4fb86ba8
+      internalID: -608567897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8eefd2f82ae11429aa51406f1a1153
+      internalID: 96494386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e3861433b34d540b59e6e2d19a4e91
+      internalID: 1019605320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b307684fae410c4fa6e749e697ef605
+      internalID: 674926339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba32d214e9411479597abb5134cb6b
+      internalID: -711945956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_39
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2140b72d8871a4681390199e32a978
+      internalID: -1763573347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d74dae666a935f4b96cba1a4960ea91
+      internalID: 1875157305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd58f8631e183b4b97d31aa0506d496
+      internalID: -582855465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e86f3ae7a22a91479ee5936d0690c76
+      internalID: -2146525043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724cea82b1eb0d149a6e213565b29e83
+      internalID: 287671907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bca61a01f13654e8a539463df19416
+      internalID: -2258519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82788acd6465cd348be512c1cd4a3a7f
+      internalID: -912032470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e994e9a1f51f94d9e25a6aa419fb5f
+      internalID: -17064371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e12859e906334d48a67df5501329526
+      internalID: 1377275818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3426510aec53ed24990916645c3747be
+      internalID: -1519519143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4958d892bd5f8ef4ba27812d272ce0bd
+      internalID: 1894718186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c632e1cdf026bd3479f0e896c3b49e97
+      internalID: -1130938884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60db912c8a79c4a85042885aff05e3
+      internalID: 2021381172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc4e995d67aae4f8f3021499ce43ed
+      internalID: 193959573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f35fc5ef8405d41952c6ac34915854
+      internalID: -314010400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da54babd9a3a5414ebf843eab8f3ed44
+      internalID: -750075443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_IceCream_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db03363d66abc534a8f71b55eb69a0ac
+      internalID: -993057509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Filled_IceCream_0: 1374960942
+      Filled_IceCream_1: 1243141812
+      Filled_IceCream_10: -754664961
+      Filled_IceCream_11: -1727812603
+      Filled_IceCream_12: -832384977
+      Filled_IceCream_13: -376733586
+      Filled_IceCream_14: -1682119783
+      Filled_IceCream_15: -477452384
+      Filled_IceCream_16: -548124212
+      Filled_IceCream_17: -1309568857
+      Filled_IceCream_18: 1375978282
+      Filled_IceCream_19: 1158788602
+      Filled_IceCream_2: -1237046
+      Filled_IceCream_20: -466637039
+      Filled_IceCream_21: -993463480
+      Filled_IceCream_22: -1252229072
+      Filled_IceCream_23: 649485774
+      Filled_IceCream_24: -554458112
+      Filled_IceCream_25: 672449581
+      Filled_IceCream_26: 2144969259
+      Filled_IceCream_27: 2057189153
+      Filled_IceCream_28: -2062209115
+      Filled_IceCream_29: -884083638
+      Filled_IceCream_3: -1829434226
+      Filled_IceCream_30: 1733927262
+      Filled_IceCream_31: -72146530
+      Filled_IceCream_32: 1837386940
+      Filled_IceCream_33: -1195978628
+      Filled_IceCream_34: -608567897
+      Filled_IceCream_35: 96494386
+      Filled_IceCream_36: 1019605320
+      Filled_IceCream_37: 674926339
+      Filled_IceCream_38: -711945956
+      Filled_IceCream_39: -1763573347
+      Filled_IceCream_4: -1256981621
+      Filled_IceCream_40: 1875157305
+      Filled_IceCream_41: -582855465
+      Filled_IceCream_42: -2146525043
+      Filled_IceCream_43: 287671907
+      Filled_IceCream_44: -2258519
+      Filled_IceCream_45: -912032470
+      Filled_IceCream_46: -17064371
+      Filled_IceCream_47: 1377275818
+      Filled_IceCream_48: -1519519143
+      Filled_IceCream_49: 1894718186
+      Filled_IceCream_5: -1792739630
+      Filled_IceCream_50: -1130938884
+      Filled_IceCream_51: 2021381172
+      Filled_IceCream_52: 193959573
+      Filled_IceCream_53: -314010400
+      Filled_IceCream_54: -750075443
+      Filled_IceCream_55: -993057509
+      Filled_IceCream_6: -1171387264
+      Filled_IceCream_7: 1231967577
+      Filled_IceCream_8: -813666720
+      Filled_IceCream_9: -2135583291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

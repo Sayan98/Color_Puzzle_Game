@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 6feb906b681a8f441b3f77f400a4b88e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Filled_Bus_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc6b40235f85843a008ae5247a8a12
+      internalID: 1844528196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb2bc95970be7c4ab067f29e72bcf17
+      internalID: 196950478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587fb1340a512314e8b4b3fe71afcd07
+      internalID: -875591024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f743f334d66f1394c8b9e18ac96139b8
+      internalID: 503226526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72dea93030c8db42854225698331cc6
+      internalID: 2066209073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af56ef222182bd4dbe7749928345ec1
+      internalID: -1551184751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5215f28b6865d44ad760c6d800fce7
+      internalID: -951327747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937baf323b48c4b4ba3129f8f7528279
+      internalID: 50897678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4458a3a4c451314188d9283284ab09d
+      internalID: 288453200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b999543acba84aae4940615c3fc9f
+      internalID: -1344547445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf5c46953e6f4b4696df34fb75ea68a
+      internalID: 993771310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd915999a62934c9a134dd1ea41bdc
+      internalID: 1830825715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7326a46bb26c1c54987414a8f0291f6d
+      internalID: 1578830554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ac1dd2e8f4e8442bd23594f3f1d844
+      internalID: 318234976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc8f9fa472be6458e26b2a31cf13e8
+      internalID: -1008302290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc83d147b15de4fae4ae88ce54214b
+      internalID: -691057652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747edb95a6816242b771b1d9f73e66a
+      internalID: 43102632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24e798cb899b143852b51b70fd5840
+      internalID: 2054984716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586966019721fda47916190ea7612d2f
+      internalID: -1151654407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690f3e815be91b4a8be2b00170ed3fd
+      internalID: 697522810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5fff87289ca8941bf2919f6455b9f8
+      internalID: 888590299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7622c103835423644a349946ed0ed7dd
+      internalID: -1688514567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a16965a54884354db2a8b399b76d34c
+      internalID: -1176706603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b064333633ec284f9ca3431df8bfe98
+      internalID: 1043014409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8be2762eb35fd498d10bb7530e365e
+      internalID: 549208449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09e59a4ba32e445a2b072010ddac94
+      internalID: 1195710374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea842a51f28adc046a2876a17a2bd32f
+      internalID: 948257408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc56030e85f57a646aee6ee05f439a6c
+      internalID: -1366639012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bf23bca75c39447a151181d3655438
+      internalID: 2131781861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8166d1f69988ce6439ec9374129487e0
+      internalID: -1998588153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ab24a75f5e23546b99eea5784e8a27
+      internalID: 1879044378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53093d0ddab94f54384c9062fc15741c
+      internalID: -827176980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9730e063a3c3c6d49932f00d3a94484a
+      internalID: 1002760993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae6629a4a808f4d95ba2c59bbef20c
+      internalID: 1424477256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379ff004bfa8ed540b5c1b1eded82450
+      internalID: 56520049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c93e7d3d2082b74b8e4ae3c2904dbe7
+      internalID: 290834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d214b184e21d4e8959e711f5dd540
+      internalID: 1693026603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cb78f779003a14facd0f82d5cd4b62
+      internalID: 1936366795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683197ad68e05cb468409b3885b50f8b
+      internalID: -167189234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_39
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e02897f8f477654d916fe1ada6fe9d7
+      internalID: 1711739185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e7e6223a86b04d8a00bc58294b700
+      internalID: -860586577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f006492ba6b874aaa258bc97ace9a6
+      internalID: -288081863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6871e0fac1715a459de68c085849193
+      internalID: -1920924142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1a3eafdc0cacd4f8e43a96d2b7cab2
+      internalID: -15770393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe8084b531d5c458816edbc0091350
+      internalID: 128387544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470ef5544335d740ad3f4e1e0856929
+      internalID: -1917786964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28baa21cf042f1a468aaa77c92208afa
+      internalID: -147337982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4531f858f6a081418b1a4bed467a5bf
+      internalID: -119289444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146f5a0e7f9e93e48b1c0049b8696286
+      internalID: 860098889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be0ca5794be55a45a4ec6689c0b4e56
+      internalID: -2146780535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b793603ab487640b6d1e4f66780eff
+      internalID: -954802759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c33a6c5b0a5a48936793e57282562
+      internalID: 1647570817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e1082787643f45bd620a4d2f2058f
+      internalID: -501607988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10502b0785f375e45b2f4c26de3d2a36
+      internalID: 1377250681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9fe0177c73d744b17eb3d9e5e6af4
+      internalID: 1636902930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Filled_Bus_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a24e66b9ed97374998fcefb3ddfb36b
+      internalID: 1082917634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Filled_Bus_0: 1844528196
+      Filled_Bus_1: 196950478
+      Filled_Bus_10: 993771310
+      Filled_Bus_11: 1830825715
+      Filled_Bus_12: 1578830554
+      Filled_Bus_13: 318234976
+      Filled_Bus_14: -1008302290
+      Filled_Bus_15: -691057652
+      Filled_Bus_16: 43102632
+      Filled_Bus_17: 2054984716
+      Filled_Bus_18: -1151654407
+      Filled_Bus_19: 697522810
+      Filled_Bus_2: -875591024
+      Filled_Bus_20: 888590299
+      Filled_Bus_21: -1688514567
+      Filled_Bus_22: -1176706603
+      Filled_Bus_23: 1043014409
+      Filled_Bus_24: 549208449
+      Filled_Bus_25: 1195710374
+      Filled_Bus_26: 948257408
+      Filled_Bus_27: -1366639012
+      Filled_Bus_28: 2131781861
+      Filled_Bus_29: -1998588153
+      Filled_Bus_3: 503226526
+      Filled_Bus_30: 1879044378
+      Filled_Bus_31: -827176980
+      Filled_Bus_32: 1002760993
+      Filled_Bus_33: 1424477256
+      Filled_Bus_34: 56520049
+      Filled_Bus_35: 290834
+      Filled_Bus_36: 1693026603
+      Filled_Bus_37: 1936366795
+      Filled_Bus_38: -167189234
+      Filled_Bus_39: 1711739185
+      Filled_Bus_4: 2066209073
+      Filled_Bus_40: -860586577
+      Filled_Bus_41: -288081863
+      Filled_Bus_42: -1920924142
+      Filled_Bus_43: -15770393
+      Filled_Bus_44: 128387544
+      Filled_Bus_45: -1917786964
+      Filled_Bus_46: -147337982
+      Filled_Bus_47: -119289444
+      Filled_Bus_48: 860098889
+      Filled_Bus_49: -2146780535
+      Filled_Bus_5: -1551184751
+      Filled_Bus_50: -954802759
+      Filled_Bus_51: 1647570817
+      Filled_Bus_52: -501607988
+      Filled_Bus_53: 1377250681
+      Filled_Bus_54: 1636902930
+      Filled_Bus_55: 1082917634
+      Filled_Bus_6: -951327747
+      Filled_Bus_7: 50897678
+      Filled_Bus_8: 288453200
+      Filled_Bus_9: -1344547445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

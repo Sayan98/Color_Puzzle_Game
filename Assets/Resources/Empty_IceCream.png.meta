@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 8d68328722e60ba4fab3094545dfd3aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Empty_IceCream_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a7aafe3592c846a28660de5a61c59
+      internalID: 1292501423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7caa73def465254faa7695269ff013e
+      internalID: -862353832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff4ca9485b8ab4bbd9b9c144e58b3f
+      internalID: 82202034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_3_1_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad2793821acca742941efe01cac4193
+      internalID: -2100971098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_4_1_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfee84af5414764c91620dfb172972c
+      internalID: 2119302957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda6e29f3780d048b241f177095c4c9
+      internalID: 633382603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3293884f4dd3498ef97506013eca4
+      internalID: 1457880799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 409.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cb5faf3f37d9d48b6703fc9f104325
+      internalID: 2132288580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe11e6d842e04eb46946d28cae77d89c
+      internalID: -289204221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a131f837e5ba34dbb9c88f604a43b6
+      internalID: -1875449236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_10_1_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49099e886157f9a40be77700f327c4b1
+      internalID: -192902099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_11_3_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c369d89d53e96f8488b1b684e2b78187
+      internalID: -965504345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_12_3_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dc76761f8c57b47be8ada3abfccab5
+      internalID: 354408609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_13_1_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ec08f5e4fe4d14a949c60c0b3c0b74
+      internalID: -1880484848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954cf51e7cc4360438683ec5a60a76b3
+      internalID: -522954129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 341.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502706363bb88c94ea1b9ac821573208
+      internalID: 1809909510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94300ab3fed9cce41b081318f10990e3
+      internalID: 682025944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0142802a4539748bf8886a2bc6d119
+      internalID: 1298978669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_18_2_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447cb34ee70d0504ab49d2160ca8404d
+      internalID: 1496316696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_19_2_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7639079626227d24d9a021ec17e61980
+      internalID: 668853577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_20_2_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a813d08590a96d44904edae0c7ec3a1
+      internalID: 2106714726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_21_2_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1df0688f3a508489a4cb4f90159dd4
+      internalID: -232493347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8526b9323923a941bf220fbf507aca5
+      internalID: 1408181699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 273.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a30c39088e48134884ef1909156c6e8
+      internalID: -2053251593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a509bb1a4ed7e49a7a755bcfd589b9
+      internalID: 259690222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f32fcd717911499871af2d754755e
+      internalID: 1462233529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_26_2_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7627d6096665f1149aa783308afcdd7b
+      internalID: 1747165304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_27_2_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ebedc98ca61b418821b46e075251f
+      internalID: 616127549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_28_2_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaec99875e9573468c2996f8256e482
+      internalID: -1614409714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_29_2_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afdbe970d1c30c4c83c2ab1d08f29c3
+      internalID: -57418449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a39f8484b5cd347be65de1a499836d
+      internalID: 552609775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 205.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbb6f8836f8f4244a5b8577cfdeecb2
+      internalID: 1437707334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a318c2526b7dd94184d98c4919b2801
+      internalID: 19333275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329030d02ef43347b1339305ecd5184
+      internalID: -1523181403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_34_2_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf1aedbae00e704491cf60d4de38f34
+      internalID: -1777955466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_35_2_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa59bb5dd8e5e4493c24801b1709de
+      internalID: -1778184126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_36_2_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a0fbc2e297a54cbf6ee9e8cdae628
+      internalID: -436399523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_37_2_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d4bf0eb278034d96d147fbf8584cf
+      internalID: -264542252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072469baec4808843be08432ba67fe2c
+      internalID: -197547782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_39
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 137.7143
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2003064a8ea8f4188d7f86d477cd4a
+      internalID: -1061102976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9688dbe2980f9a24481448eca081206a
+      internalID: 1186484994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc8f241650ab324ba746a7c85aa68c6
+      internalID: -1884415434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b785639d59f3a4246938f28d3e1ce738
+      internalID: -701560377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_43_6_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1962e7d1c8532034c96da9927a0668db
+      internalID: 2030306090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_44_6_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c421355f5cd64a8726e14ebc4ca70
+      internalID: -315472144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad5a6157c75684bbe1e70f47f89df0
+      internalID: 1975394184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08f9406cd2599b4cb3f1aac79d41109
+      internalID: -821973762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 69.71429
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c620316f7bb242489050e02a207db13
+      internalID: 1732745085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7f38b2d7d88724d90f53956b43ca40
+      internalID: -151686719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264a517cf38a1f4ab07a908ba5e27f4
+      internalID: -64429643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c9574b1a3a444faa77a16320ab351
+      internalID: 1905475606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_51_6_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb94a4126f36cff42afb3067a5b2cb46
+      internalID: 1074112592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_52_6_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ce4be05f7b7064c903f1152a312cbb
+      internalID: 183828048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c6ae3e530ac3649996fb552aeae54d
+      internalID: 950066778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce2bf7987705d40899e368121d2a5f
+      internalID: 362606789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_IceCream_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1.7142868
+        width: 68.125
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964f85df197248d4bab86daa257e1181
+      internalID: 107459969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Empty_IceCream_0: 1292501423
+      Empty_IceCream_1: -862353832
+      Empty_IceCream_10_1_2: -192902099
+      Empty_IceCream_11_3_1: -965504345
+      Empty_IceCream_12_3_1: 354408609
+      Empty_IceCream_13_1_3: -1880484848
+      Empty_IceCream_14: -522954129
+      Empty_IceCream_15: 1809909510
+      Empty_IceCream_16: 682025944
+      Empty_IceCream_17: 1298978669
+      Empty_IceCream_18_2_1: 1496316696
+      Empty_IceCream_19_2_1: 668853577
+      Empty_IceCream_2: 82202034
+      Empty_IceCream_20_2_1: 2106714726
+      Empty_IceCream_21_2_1: -232493347
+      Empty_IceCream_22: 1408181699
+      Empty_IceCream_23: -2053251593
+      Empty_IceCream_24: 259690222
+      Empty_IceCream_25: 1462233529
+      Empty_IceCream_26_2_1: 1747165304
+      Empty_IceCream_27_2_1: 616127549
+      Empty_IceCream_28_2_1: -1614409714
+      Empty_IceCream_29_2_1: -57418449
+      Empty_IceCream_30: 552609775
+      Empty_IceCream_31: 1437707334
+      Empty_IceCream_32: 19333275
+      Empty_IceCream_33: -1523181403
+      Empty_IceCream_34_2_1: -1777955466
+      Empty_IceCream_35_2_1: -1778184126
+      Empty_IceCream_36_2_1: -436399523
+      Empty_IceCream_37_2_1: -264542252
+      Empty_IceCream_38: -197547782
+      Empty_IceCream_39: -1061102976
+      Empty_IceCream_3_1_2: -2100971098
+      Empty_IceCream_40: 1186484994
+      Empty_IceCream_41: -1884415434
+      Empty_IceCream_42: -701560377
+      Empty_IceCream_43_6_1: 2030306090
+      Empty_IceCream_44_6_1: -315472144
+      Empty_IceCream_45: 1975394184
+      Empty_IceCream_46: -821973762
+      Empty_IceCream_47: 1732745085
+      Empty_IceCream_48: -151686719
+      Empty_IceCream_49: -64429643
+      Empty_IceCream_4_1_3: 2119302957
+      Empty_IceCream_5: 633382603
+      Empty_IceCream_50: 1905475606
+      Empty_IceCream_51_6_1: 1074112592
+      Empty_IceCream_52_6_1: 183828048
+      Empty_IceCream_53: 950066778
+      Empty_IceCream_54: 362606789
+      Empty_IceCream_55: 107459969
+      Empty_IceCream_6: 1457880799
+      Empty_IceCream_7: 2132288580
+      Empty_IceCream_8: -289204221
+      Empty_IceCream_9: -1875449236
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

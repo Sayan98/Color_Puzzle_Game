@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 8e67579b359407246a4703c1650217c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Empty_Bus_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2bbdc1bc8134643980531c6f3c61ce
+      internalID: 40264632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad52762330a6ef3449dd41b232ee671d
+      internalID: 381714326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639f138b0c603f47b2f4e959abf4441
+      internalID: -549751131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6183796cddae947a61b8b7e936e2ea
+      internalID: 1404723342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f3e04e14722054ca191138058d0a03
+      internalID: -1586085278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ebb9c6136bc844c83a768058559402
+      internalID: -1269786384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56678bc893cdf5419ef86f6c3023f0e
+      internalID: 2109323568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c64dc9d9ec9a4c8e061dc05b1b620
+      internalID: -703984456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6c3df7d9b2f494a8dcad38e6f951a0
+      internalID: 307755986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe6f210acdf494f8376e066f9136c3
+      internalID: -1558085928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca84f3bbe8e9ba469b71ffbe8958ba9
+      internalID: 966104222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6dc264f4ac242439609ee5552fa7ff
+      internalID: -1706905129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df5dfb1e95b39e48baad497ca9d4c6f
+      internalID: 2114996622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b859bfb52ade4593132ef51eb31af
+      internalID: 378090676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba97cae396919142a48405b058131e6
+      internalID: -418209470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6520f55d4e3a6418da684ad9d762ca
+      internalID: -496102552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ace7e87b93268b4296485ed294e8961
+      internalID: 173124532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_17_0_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3178e107313db14c8f0777f004dcca0
+      internalID: 1811910441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_18_0_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d98790f91562b4d82ae351f79ced57
+      internalID: 431684788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_19_0_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40671d9437026b4d8e77fd492d2557d
+      internalID: -771153112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_20_0_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7a7cc263474c4c8ebc10c5ca99e55
+      internalID: 1705469055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_21_9_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330e3c5c891c76e4bbe976c83060ba30
+      internalID: -864795365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_22_9_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a224a856cdcea8c4488e62e3d58ab982
+      internalID: 1441450919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605cff64700bc65409903cad3ef66fcc
+      internalID: -796652030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04df2ea5a85c74797babc32c89c1de
+      internalID: 1408109976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_25_0_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ab7341a5c8834fa20e0b84146fe42
+      internalID: 798643763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_26_0_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf645788bca805c4b823a963cbbe2e44
+      internalID: 1751773215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_27_0_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cd464711c283a45bab1e86ec89ade6
+      internalID: -2089803867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_28_0_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ff4efdde5b01458e0002b02a3d63a
+      internalID: 820390923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_29_0_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a62bd1bd0d9c34d8b64c5b79d0a933
+      internalID: -698246396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_30_0_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9846d763430e7b841b9f7b4c3ff14a1e
+      internalID: 2078469823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21fe09cca9c92440b2440396d7dbca0
+      internalID: 219969675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e543d1c799ad446b5a9300c52fa85b
+      internalID: -74574194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_33_6_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db949027a7873a64690239c0db88de58
+      internalID: -1765148192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_34_6_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91d64bb1ebbe6429ad503d00e9afc6
+      internalID: -1656342863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_35_6_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630c7402fdbe9141b859e74e3923e0e
+      internalID: 124625796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_36_6_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bce09454c764b4b91847d994cee946
+      internalID: 215232089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_37_6_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8005a1221c2ed4996f3a7379c61535
+      internalID: -820036027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_38_6_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbbdd3e132ffed4cb1e3955b95fb2ea
+      internalID: 472213870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_39
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8f1d09542cd4439cf3babe14885ff
+      internalID: -1567596548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce154d689d3bc45a8d1dc188806eef
+      internalID: 317383826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9361824c377e24297702489ebbe621
+      internalID: 1710831345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_42_8_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8525a0648a4da5049a12df237c7975a7
+      internalID: 791896738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2960c7f6341de4ea857c57e9202974
+      internalID: 775347832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c557e6386b2441b8f1e9024c22412
+      internalID: 1266605708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_45_8_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e064e98b7b20014ea09fddf28797973
+      internalID: -1864472846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4902428177a4b547a1c52b20ee45fac
+      internalID: 2145091116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015349f748dc21428a81e680990645f
+      internalID: 331652663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e72b5c7f67f04db4ce5974488dd8d
+      internalID: -1516770582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdd7915a4afb6347940532e8c812078
+      internalID: 334570427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576e1541b42ca14fae2ed5f8148c439
+      internalID: -1169972258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d0c23605410224493e1719b0b18298
+      internalID: -646050002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce3d66d836a3541af5b4be670def73
+      internalID: -914309871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249d0073e6ba98d42a8744aeb158800a
+      internalID: -148155307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d679b3ccef6ee14a920a72389486653
+      internalID: 1637338339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Bus_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681722fd023e0e1458b8848e27df8d01
+      internalID: -440038523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Empty_Bus_0: 40264632
+      Empty_Bus_1: 381714326
+      Empty_Bus_10: 966104222
+      Empty_Bus_11: -1706905129
+      Empty_Bus_12: 2114996622
+      Empty_Bus_13: 378090676
+      Empty_Bus_14: -418209470
+      Empty_Bus_15: -496102552
+      Empty_Bus_16: 173124532
+      Empty_Bus_17_0_1: 1811910441
+      Empty_Bus_18_0_1: 431684788
+      Empty_Bus_19_0_1: -771153112
+      Empty_Bus_2: -549751131
+      Empty_Bus_20_0_1: 1705469055
+      Empty_Bus_21_9_1: -864795365
+      Empty_Bus_22_9_1: 1441450919
+      Empty_Bus_23: -796652030
+      Empty_Bus_24: 1408109976
+      Empty_Bus_25_0_1: 798643763
+      Empty_Bus_26_0_1: 1751773215
+      Empty_Bus_27_0_1: -2089803867
+      Empty_Bus_28_0_1: 820390923
+      Empty_Bus_29_0_1: -698246396
+      Empty_Bus_3: 1404723342
+      Empty_Bus_30_0_1: 2078469823
+      Empty_Bus_31: 219969675
+      Empty_Bus_32: -74574194
+      Empty_Bus_33_6_1: -1765148192
+      Empty_Bus_34_6_1: -1656342863
+      Empty_Bus_35_6_1: 124625796
+      Empty_Bus_36_6_1: 215232089
+      Empty_Bus_37_6_1: -820036027
+      Empty_Bus_38_6_1: 472213870
+      Empty_Bus_39: -1567596548
+      Empty_Bus_4: -1586085278
+      Empty_Bus_40: 317383826
+      Empty_Bus_41: 1710831345
+      Empty_Bus_42_8_9: 791896738
+      Empty_Bus_43: 775347832
+      Empty_Bus_44: 1266605708
+      Empty_Bus_45_8_9: -1864472846
+      Empty_Bus_46: 2145091116
+      Empty_Bus_47: 331652663
+      Empty_Bus_48: -1516770582
+      Empty_Bus_49: 334570427
+      Empty_Bus_5: -1269786384
+      Empty_Bus_50: -1169972258
+      Empty_Bus_51: -646050002
+      Empty_Bus_52: -914309871
+      Empty_Bus_53: -148155307
+      Empty_Bus_54: 1637338339
+      Empty_Bus_55: -440038523
+      Empty_Bus_6: 2109323568
+      Empty_Bus_7: -703984456
+      Empty_Bus_8: 307755986
+      Empty_Bus_9: -1558085928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

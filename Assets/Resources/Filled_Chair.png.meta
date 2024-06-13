@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: f51baf01abf25a844802bea7ad209e7e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Empty_Chair_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14454c4755ac0d747af573b9bdb16d4f
+      internalID: -204752440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f47d42e11b22488eab1fcd94bf904
+      internalID: 1398412911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 409.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b8a7a68cad1494c8775b5a970aad57
+      internalID: 279405020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 409.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63c1bc41dd57f4a83ef4f46418d440
+      internalID: 1392030413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 409.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498802fef4d0104d9ad562090599b85
+      internalID: -1370097889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 409.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0523b26eb08d6e94f9e0e5f96ac43313
+      internalID: 1465425126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 409.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd912dea80f6b4daba600cec194534
+      internalID: 654848309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 409.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0683c7c3e09976148a81e2e67077b350
+      internalID: -1121308767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74137b56823b3dd468ab0b265b843727
+      internalID: 1393783144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 341.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d4e770cd59dc14b828ad9cfd247a55
+      internalID: -1776718410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 341.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ee48f66df7b24e9c596d0e3121781
+      internalID: -1191748546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 341.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05715c457d5245542b12ee80ba9f8478
+      internalID: 1439144766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 341.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485e4cbe3c740d4c809ee8697985518
+      internalID: -1786953880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 341.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a862cbab7046754dbe8862c2789535e
+      internalID: 1842494024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 341.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ed755e2edca646945c3b6f367ee68
+      internalID: -1550897064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 341.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b876fe6a71ae64facbcbf794d9a9a3
+      internalID: -929988420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aab3a8b1e6e45347a92da93cae5307a
+      internalID: -1856446823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 273.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f9d5986fd89f649bdcddda4bec60f7
+      internalID: -658538379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 273.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0588a78cb8a4f7409fd52db5d157ed8
+      internalID: -1787222574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 273.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d57a55ce664eb4a98f673b44867496
+      internalID: 1408854020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 273.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae95e17b52602b94fbaa0bc566c97fc3
+      internalID: 1080844978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 273.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbabb1dffaed14439ccb8e057f7bba0
+      internalID: 1783733880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 273.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4485b4615b5a348980e0c53a0d22c1
+      internalID: -1128270724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 273.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c17703a45f3a4e9543f36d8b8a2b2
+      internalID: 2052025793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8178e91bc45648b89d3898b76cfd8
+      internalID: 1025536402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 205.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc4a8841434af347a89862f6b4a192b
+      internalID: 368263485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 205.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a91cbce0c598744aebc9f612dbd604
+      internalID: -995959231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 205.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ee3620908893469d01f05867ae712
+      internalID: -794032520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 205.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09132660d18ec47be14198b31c88c8
+      internalID: 2024996717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 205.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b26224f833084c80b75810be77d4d
+      internalID: 808443145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 205.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae404d95475a6a24883cfef9bf1e0db2
+      internalID: 97556453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 205.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722ed63558841284bba37276d4e7868c
+      internalID: -1128128652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674cc4c01873934f8ff0ef4390eb064
+      internalID: 191674841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f69e679b1faca42af391c1e69d1597
+      internalID: 613965294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774a49db19930e4b9b0d007842894ed
+      internalID: -1759517383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 137.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121871ac12094041b2b3822a04f9720
+      internalID: 1260069952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 137.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448250c4f49aaaf47aef239a1fb2987e
+      internalID: 58637321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a9ed8a8c813142b0af4e6727af970
+      internalID: 104222705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 137.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28826e8546c904a48b3d04c869940512
+      internalID: 877131600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_39
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 137.7143
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6a214ea686c844947cbc7d33a58b3
+      internalID: -445743209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69.71429
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52d3fc1f1208a47b9edc23653d3fc7
+      internalID: -170067268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69.71429
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584cbcc0e34464641b10e03602c7a022
+      internalID: -1746329222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69.71429
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d75b24d26a0ab346adacda26081c627
+      internalID: -1659409029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 69.71429
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec83ab0a81f304691c8284cc2fb739
+      internalID: -1103792882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 69.71429
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feb6ed2e2dc89d408647a08b606104f
+      internalID: 1671143848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 69.71429
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe357cb0b5d8e16458272aa3f49e2eeb
+      internalID: -690523210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 69.71429
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead73ab455925341806e458a807b324
+      internalID: 65640213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 69.71429
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cfe41193a85d347bdecfedbcd85b28
+      internalID: 1403523516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1.7142868
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472eefe87b4c3be48a1795460407ac89
+      internalID: 275706963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1.7142868
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9493042f475a11c49b372661b493d898
+      internalID: -1178934609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1.7142868
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051161aedffd61f4791bc9079fe96084
+      internalID: 2094552191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1.7142868
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e31d4d54a4a746a43f3dbd70fa069
+      internalID: 1863715839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1.7142868
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d899ce8e4cb569143a1de3a85150d690
+      internalID: 675833527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1.7142868
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5d9fff8eb09d74994576e15cf0519b
+      internalID: 964366301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1.7142868
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e437be2853b2a54d85519b53a0d56a3
+      internalID: 20821989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Chair_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1.7142868
+        width: 68
+        height: 68.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f6dea52ebcb2d4699d89e07818ba21
+      internalID: -528138152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Empty_Chair_0: -204752440
+      Empty_Chair_1: 1398412911
+      Empty_Chair_10: -1191748546
+      Empty_Chair_11: 1439144766
+      Empty_Chair_12: -1786953880
+      Empty_Chair_13: 1842494024
+      Empty_Chair_14: -1550897064
+      Empty_Chair_15: -929988420
+      Empty_Chair_16: -1856446823
+      Empty_Chair_17: -658538379
+      Empty_Chair_18: -1787222574
+      Empty_Chair_19: 1408854020
+      Empty_Chair_2: 279405020
+      Empty_Chair_20: 1080844978
+      Empty_Chair_21: 1783733880
+      Empty_Chair_22: -1128270724
+      Empty_Chair_23: 2052025793
+      Empty_Chair_24: 1025536402
+      Empty_Chair_25: 368263485
+      Empty_Chair_26: -995959231
+      Empty_Chair_27: -794032520
+      Empty_Chair_28: 2024996717
+      Empty_Chair_29: 808443145
+      Empty_Chair_3: 1392030413
+      Empty_Chair_30: 97556453
+      Empty_Chair_31: -1128128652
+      Empty_Chair_32: 191674841
+      Empty_Chair_33: 613965294
+      Empty_Chair_34: -1759517383
+      Empty_Chair_35: 1260069952
+      Empty_Chair_36: 58637321
+      Empty_Chair_37: 104222705
+      Empty_Chair_38: 877131600
+      Empty_Chair_39: -445743209
+      Empty_Chair_4: -1370097889
+      Empty_Chair_40: -170067268
+      Empty_Chair_41: -1746329222
+      Empty_Chair_42: -1659409029
+      Empty_Chair_43: -1103792882
+      Empty_Chair_44: 1671143848
+      Empty_Chair_45: -690523210
+      Empty_Chair_46: 65640213
+      Empty_Chair_47: 1403523516
+      Empty_Chair_48: 275706963
+      Empty_Chair_49: -1178934609
+      Empty_Chair_5: 1465425126
+      Empty_Chair_50: 2094552191
+      Empty_Chair_51: 1863715839
+      Empty_Chair_52: 675833527
+      Empty_Chair_53: 964366301
+      Empty_Chair_54: 20821989
+      Empty_Chair_55: -528138152
+      Empty_Chair_6: 654848309
+      Empty_Chair_7: -1121308767
+      Empty_Chair_8: 1393783144
+      Empty_Chair_9: -1776718410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

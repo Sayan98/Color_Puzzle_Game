@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 22fc52cb7bf58cf41be7a0cc854fc499
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Empty_Flag_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64ccd461e0369a4b8ea12f289b72ef8
+      internalID: 457206017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1c3ed0f11080747a78159d64f1e81f
+      internalID: 737088979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305b2930c64c7446b6252491036dfa3
+      internalID: -1974846149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f525a5cb7a7d14c9530bb8bfd40931
+      internalID: 722808128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c2b952d311604d8140638dc4f5af1
+      internalID: -198568046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dff0058bb68742448a980f86047baf2
+      internalID: 1131166567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bed57e10cd60ff4194e1fc91b9e2daf
+      internalID: -1109983430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 408.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350920b43730224479ceaa8f8ea1629a
+      internalID: -753303185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba975b9773e0e499e9dc3111aefbe1
+      internalID: -1548589183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_9_6_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7e00c1f02c89646aba70e53e2a66b8
+      internalID: -2023145016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_10_0_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338ed8a9e82a4a40ac007afdabf7ec0
+      internalID: -304091911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_11_0_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24290fae06910d844bf723890aff6496
+      internalID: -569813458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_12_0_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f508a3be22b714d85fdeaba031208c
+      internalID: -452750261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_13_0_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ea67906a9fdc843ae8b3ebcd8f3ae0
+      internalID: 796758010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_14_0_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34831560759348642b503afddc45fa37
+      internalID: -268578409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 340.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ad47044ee71b469f6877837f5d512
+      internalID: -374568821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d845bb2bb3b54e14dacb28498e941827
+      internalID: 871550579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_17_6_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886afd186f514f745a1b213496a83a8f
+      internalID: -1290754514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6dfc9fac1df34e85d537c770f9199
+      internalID: 867159547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f75b1aedf06184190c1424bb78fc5a
+      internalID: 746505064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_20_5_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d043629f0a1894c953136c43a28c39
+      internalID: 1253322645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e76d1a5a2bdd540a1e5de650a053b1
+      internalID: 602141909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5703cda1d01103746abceac148aa16a7
+      internalID: -1383372954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 272.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299104d93b8fdeb448bd48a20289e3eb
+      internalID: 1973060013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933757e577de7ac43a1060b981f771c9
+      internalID: 104278573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_25_6_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0107263fcdfb1684b9be12d08002a058
+      internalID: -1460131629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_26_2_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c779fb73753dd549be48ff7e1914a7e
+      internalID: -1257624208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_27_2_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9b4cd7473650469c695d39bb75ae9
+      internalID: 1397070235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_28_2_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94bc6b7fe9a4464eb3d5f36a4bf18b8
+      internalID: 1929695232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_29_2_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a812167862f74fa288a41361de705
+      internalID: 1141580730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_30_2_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9fed8e03ae6d942b9fa9e6ba1e846d
+      internalID: -416183400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 204.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b04b9c23de3844b9729cdbc0369708
+      internalID: 767422787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0318d63a522e05747aeeca42195966ae
+      internalID: -1389208209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_33_6_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e196c5390945364eb14e505ee2c6f3e
+      internalID: -1606932784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed4573f2aaec04a8f2b48681bf7b24
+      internalID: -449977586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16fa040e1a62de40a98180a0cdd0c4e
+      internalID: -434094923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3cb6a4678b6f468e2f53337de957e
+      internalID: 1021318990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fd80ea2495f1f43bc4b479fd193408
+      internalID: -671903558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842d863d58d432f4e8035871c89ba9ae
+      internalID: 2039474839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_39
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 136.85715
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556afcbb0c9a2c54e8a80cb5490f2a2c
+      internalID: 1395036067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f35ac2f771dde142aaf1981b54dbc09
+      internalID: 1382694835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_41_6_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b737efc4ff4baef478e0846754a00e12
+      internalID: 1830072542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc69abdb89d51f4e830d1f1981d19d3
+      internalID: -314655920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54884054d15604a87f8098802bcfb2
+      internalID: -1108378811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550591a497a3db4cba3f3b2764d79f2
+      internalID: -886562431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae76d383bb936544181afb0726620c60
+      internalID: 1568641494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85143fde5770cd544a3243271de30477
+      internalID: -673387144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 68.85714
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737245eeb4c180643a960fdbdb905429
+      internalID: -699259782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d682e084b53be8343a43a7e125153707
+      internalID: -454865881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_49_6_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e8b9f26dca47d4083058416ccb6574
+      internalID: -1077687457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ca2958fa03b2d4f9bf2300ebfb17e3
+      internalID: -172284912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a992fdf19d9b81643a11eede1499f306
+      internalID: -95916547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892504a373cccb1499e21d9f7c53e38f
+      internalID: 2053919317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6fa9d7f0c49c942b65bbcdef82d582
+      internalID: -438060910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dca006e386a0a489be01253325c6dc
+      internalID: 1883615097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Flag_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0.8571396
+        width: 68
+        height: 68.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aea3ceec6045d4daf92592f37f1db2
+      internalID: 1603362901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Empty_Flag_0: 457206017
+      Empty_Flag_1: 737088979
+      Empty_Flag_10_0_1: -304091911
+      Empty_Flag_11_0_1: -569813458
+      Empty_Flag_12_0_1: -452750261
+      Empty_Flag_13_0_1: 796758010
+      Empty_Flag_14_0_1: -268578409
+      Empty_Flag_15: -374568821
+      Empty_Flag_16: 871550579
+      Empty_Flag_17_6_1: -1290754514
+      Empty_Flag_18: 867159547
+      Empty_Flag_19: 746505064
+      Empty_Flag_2: -1974846149
+      Empty_Flag_20_5_0: 1253322645
+      Empty_Flag_21: 602141909
+      Empty_Flag_22: -1383372954
+      Empty_Flag_23: 1973060013
+      Empty_Flag_24: 104278573
+      Empty_Flag_25_6_1: -1460131629
+      Empty_Flag_26_2_1: -1257624208
+      Empty_Flag_27_2_1: 1397070235
+      Empty_Flag_28_2_1: 1929695232
+      Empty_Flag_29_2_1: 1141580730
+      Empty_Flag_3: 722808128
+      Empty_Flag_30_2_1: -416183400
+      Empty_Flag_31: 767422787
+      Empty_Flag_32: -1389208209
+      Empty_Flag_33_6_1: -1606932784
+      Empty_Flag_34: -449977586
+      Empty_Flag_35: -434094923
+      Empty_Flag_36: 1021318990
+      Empty_Flag_37: -671903558
+      Empty_Flag_38: 2039474839
+      Empty_Flag_39: 1395036067
+      Empty_Flag_4: -198568046
+      Empty_Flag_40: 1382694835
+      Empty_Flag_41_6_1: 1830072542
+      Empty_Flag_42: -314655920
+      Empty_Flag_43: -1108378811
+      Empty_Flag_44: -886562431
+      Empty_Flag_45: 1568641494
+      Empty_Flag_46: -673387144
+      Empty_Flag_47: -699259782
+      Empty_Flag_48: -454865881
+      Empty_Flag_49_6_1: -1077687457
+      Empty_Flag_5: 1131166567
+      Empty_Flag_50: -172284912
+      Empty_Flag_51: -95916547
+      Empty_Flag_52: 2053919317
+      Empty_Flag_53: -438060910
+      Empty_Flag_54: 1883615097
+      Empty_Flag_55: 1603362901
+      Empty_Flag_6: -1109983430
+      Empty_Flag_7: -753303185
+      Empty_Flag_8: -1548589183
+      Empty_Flag_9_6_1: -2023145016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
