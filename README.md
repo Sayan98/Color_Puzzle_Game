@@ -1,4 +1,18 @@
-Each pixel block has a color inside. You can just color by blocks, and will have a piece of super cool artwork in Square sandbox. Draw with shapes to make shapes like ice creams, chair, bus, flag and more. 
+Welcome to **Pixel Art Puzzle Game**! In this single-player game, each level presents you with a different drawing. The drawing is composed of individual pixel blocks, each containing a unique color. Your goal is to color the blocks to recreate the given image, creating a stunning piece of art.
+
+The game offers a variety of levels, with each level featuring a new drawing to complete. From simple shapes to more complex compositions, you'll have the opportunity to draw and create objects like ice creams, chairs, buses, flags, and much more.
+
+To play, simply color the blocks using the available shapes. As you progress, you'll unlock new colors and shapes, allowing you to bring even more detail and creativity to your pixel art.
+
+Features:
+
+Engaging puzzle gameplay with a variety of levels
+- Unique pixel art drawings to complete
+- A wide range of colors and shapes to choose from
+- Suitable for all ages and skill levels
+- Get started now and unleash your inner artist! Happy puzzling!
+
+(Note: This game is designed for educational and entertainment purposes only. No personal information is collected or stored during gameplay.)
 
 
 
